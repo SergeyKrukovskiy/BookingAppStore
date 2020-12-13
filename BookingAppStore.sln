@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookingAppStore", "BookingAppStore\BookingAppStore.csproj", "{FACC7147-16AA-4D35-9719-642DC1CD1233}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FACC7147-16AA-4D35-9719-642DC1CD1233}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FACC7147-16AA-4D35-9719-642DC1CD1233}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FACC7147-16AA-4D35-9719-642DC1CD1233}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FACC7147-16AA-4D35-9719-642DC1CD1233}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBD5C199-DD4A-477C-AB2E-EEB779A51BE5}
+	EndGlobalSection
+EndGlobal
